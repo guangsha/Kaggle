@@ -7,7 +7,7 @@ The best single models we have obtained during the competition were gradient boo
 
 ## FlowChart
 
-<img src="./Doc/FlowChart.jpg" alt="FlowChart" align="center" width="700px"/>
+<img src="./Doc/FlowChart.png" alt="FlowChart" align="center" width="700px"/>
 
 
 ## Documentation
